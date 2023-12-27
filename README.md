@@ -1,4 +1,4 @@
-### Hi there 👋
+Just another software developer who likes typing in camelcase
 
 <!--
 **LeeladharRao/LeeladharRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
